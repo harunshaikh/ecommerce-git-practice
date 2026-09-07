@@ -13,3 +13,6 @@ A simple practice e-commerce website.
 
 This project is created to practice Git, GitHub, branches, pull requests, merge conflicts, and GitHub Actions.
 
+## Project Status
+
+Login page has been added successfully.
